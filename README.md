@@ -32,12 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Sheetal’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SheetalKothari&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheetalKothari&layout=compact&theme=radical)  
-
----
 
 ## 🤝 Connect with Me  
 🌐 Portfolio (coming soon!)  
