@@ -65,15 +65,6 @@ Built a vibe coding platform that converts natural language prompts into product
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheetalkothari13&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheetalkothari13&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/13-sheetal-kothari/
